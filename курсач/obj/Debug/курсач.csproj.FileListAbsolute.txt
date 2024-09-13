@@ -1,0 +1,4 @@
+C:\Users\quasar\source\repos\курсач\курсач\obj\Debug\курсач.csproj.AssemblyReference.cache
+C:\Users\quasar\source\repos\курсач\курсач\obj\Debug\курсач.Properties.Resources.resources
+C:\Users\quasar\source\repos\курсач\курсач\obj\Debug\курсач.csproj.GenerateResource.cache
+C:\Users\quasar\source\repos\курсач\курсач\obj\Debug\курсач.csproj.CoreCompileInputs.cache
